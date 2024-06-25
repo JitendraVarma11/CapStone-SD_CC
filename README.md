@@ -40,8 +40,8 @@ The primary objective of this project is to provide users with an intuitive inte
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/smart-fitness-nutrition-tracker.git
-   cd smart-fitness-nutrition-tracker/frontend
+   git clone https://github.com/JitendraVarma11/CapStone-SD_CC/tree/main/Smart%20Fitness%20and%20Nitrition%20Tracker/Fronted
+   cd Smart Fitness and Nitrition Tracker/Fronted
    ```
 
 2. Install dependencies:
@@ -57,8 +57,10 @@ The primary objective of this project is to provide users with an intuitive inte
 ### Back-end
 
 1. Navigate to the backend directory:
+   git clone https://github.com/JitendraVarma11/CapStone-SD_CC/tree/main/Smart%20Fitness%20and%20Nitrition%20Tracker/Backend/SFANT/SFANT
+   cd Smart Fitness and Nitrition Tracker/Backend/SFANT/SFANT
    ```bash
-   cd ../backend
+      cd ../backend
    ```
 
 2. Configure the MySQL database connection in `application.properties`.
@@ -86,9 +88,9 @@ We welcome contributions to the Smart Fitness and Nutrition Tracker! Please fork
 
 We would like to thank all the contributors. Special thanks to our team members:
 
-- [Jitendra Varma]
-- [Ajay Prajapati]
-- [Yash Kathesia]
-- [Rishit Gondaliya]
+- **Jitendra Varma**
+- **Ajay Prajapati**
+- **Yash Kathesia**
+- **Rishit Gondaliya**
 
 Your dedication and hard work made this project possible.
