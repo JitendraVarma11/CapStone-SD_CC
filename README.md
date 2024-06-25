@@ -1,6 +1,6 @@
 # Smart Fitness and Nutrition Tracker
 
-![Home Page](SFANT home page.jpg)
+![Home Page](SFANT%20home%20page.jpg)
 
 ## Overview
 
