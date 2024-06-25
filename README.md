@@ -36,12 +36,15 @@ The primary objective of this project is to provide users with an intuitive inte
 - Java Development Kit (JDK)
 - MySQL
 
+### Clone the Repository
+   ```bash
+      git clone https://github.com/JitendraVarma11/CapStone-SD_CC
+   ```
 ### Front-end
 
-1. Clone the repository:
+1. Navigate:
    ```bash
-   git clone https://github.com/JitendraVarma11/CapStone-SD_CC/tree/main/Smart%20Fitness%20and%20Nitrition%20Tracker/Fronted
-   cd Smart Fitness and Nitrition Tracker/Fronted
+   cd Smart Fitness and Nitrition Tracker/Frontend
    ```
 
 2. Install dependencies:
@@ -57,10 +60,8 @@ The primary objective of this project is to provide users with an intuitive inte
 ### Back-end
 
 1. Navigate to the backend directory:
-   git clone https://github.com/JitendraVarma11/CapStone-SD_CC/tree/main/Smart%20Fitness%20and%20Nitrition%20Tracker/Backend/SFANT/SFANT
-   cd Smart Fitness and Nitrition Tracker/Backend/SFANT/SFANT
    ```bash
-      cd ../backend
+      cd Smart Fitness and Nitrition Tracker/Backend
    ```
 
 2. Configure the MySQL database connection in `application.properties`.
@@ -78,11 +79,6 @@ The primary objective of this project is to provide users with an intuitive inte
 
 3. Start tracking your fitness activities, dietary intake, and monitor your progress.
 
-## Contributing
-
-We welcome contributions to the Smart Fitness and Nutrition Tracker! Please fork the repository and submit pull requests with your changes. Ensure your code follows our coding standards and include tests for new features or bug fixes.
-
-]
 
 ## Acknowledgements
 
