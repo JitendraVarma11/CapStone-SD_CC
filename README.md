@@ -84,9 +84,9 @@ The primary objective of this project is to provide users with an intuitive inte
 
 We would like to thank all the contributors. Special thanks to our team members:
 
-- **Jitendra Varma**
-- **Ajay Prajapati**
-- **Yash Kathesia**
-- **Rishit Gondaliya**
+- [**Jitendra Varma**](https://github.com/JitendraVarma11)
+- [**Ajay Prajapati**](https://github.com/Ajay-Prajapati-2025)
+- [**Yash Kathesia**](https://github.com/yash-kathesia)
+- [**Rishit Gondaliya**](https://github.com/rishitgondaliya)
 
 Your dedication and hard work made this project possible.
